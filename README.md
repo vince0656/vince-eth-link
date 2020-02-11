@@ -1,5 +1,4 @@
 # vince-eth-link
-
 ## Project setup
 ```
 npm install
